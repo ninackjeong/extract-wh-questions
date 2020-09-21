@@ -1,5 +1,4 @@
-# extract wh-questions from a book without any special library
-# and module
+# extract wh-questions from a book without any special library and module
 # by Cheonkam Jeong
 # Basically, I view the text as a big string, make the computer probe every character,
 # and split sentences by starting (i.e., letters) and ending points (i.e., punctuation marks)
